@@ -4,3 +4,5 @@ My fsc subjects
 cout<<"Physics,Math and Computer"<<endl;
 1est semester subject
 cout<< "OHM,programming,ICT,Islamiat,physics";
+2and semester subjects
+cout<<"discreate structure,software configuration,sdlc,English,Islamiat,state";
